@@ -13,4 +13,4 @@ Besides that, I'm developing and maintaining several libraries to bring low-leve
 If you want to support what I do, you can 
 * [Sponsor me](https://github.com/sponsors/AlCalzone/) 💪🏻
 * [PayPal me](https://paypal.me/dgriesel) 💸 or
-* [Subscribe to NabuCasa](https://www.nabucasa.com/) 🏡 to support me and other developers working on the vision of the open Smart Home.
+* [Subscribe to Nabu Casa](https://www.nabucasa.com/) 🏡 to support me and other developers working on the vision of the open Smart Home.
